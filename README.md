@@ -1,6 +1,6 @@
 # IOAI
 
-*This README.md file is 95% Claude-generated, with human-made adjustments and "What I learned" section*
+*This README.md file is 95% Claude-generated, with human-made adjustments and a "What I learned" section*
 
 Study and solution notebooks for the International Olympiad on AI (IOAI) — covering adversarial attacks on computer vision models, low-resource NLP, and fairness in word embeddings.
 
@@ -38,4 +38,6 @@ Preparing for the IOAI meant tackling research-level AI problems under time pres
 
 ## What I Learned
 
-- TODO
+- **Nothing worthwhile is easy** - the whole "being a competitor for the 1st IOAI Bulgaria" was the hardest self-imposed strugge I've been through in my life. Learning that much AI didn't "simply" broaden my perspective in that and science altogether, but also changed my worldview completely. It's very hard to put into words, and ever harder to put it into text. 
+
+- **The medal was silver, and the friends were gold** - my remake of what Ali Sharifi, the head of the ISC for IOAI, himself an IOI gold medalist, said at the closing ceremony. 
